@@ -11,11 +11,6 @@ public class HolaMundo {
 		System.out.println("Etapa 6.0");
 		System.out.println("Etapa 7.0");
 		System.out.println("Etapa 8.0");
-		System.out.println("Etapa 9.0");
-		System.out.println("Etapa 10.0");
-		System.out.println("Etapa 11.0");
-		System.out.println("Etapa 12.0");
-		System.out.println("Etapa 13.0");
 		}
 
 }
